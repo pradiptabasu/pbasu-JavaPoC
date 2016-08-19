@@ -1,0 +1,1001 @@
+CustomerID,PaymentAmount,FinTechID,PaymentCategory,SalesChannel,TechnicalChannel,Region
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Direct,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,Others,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Peer Bank,API,EMEA
+7,1000,InnerCircleCars,Cars,FinTech,API,LATAM
+8,6000,MoneyBuys,Electronics,Corporates,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Corporates,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,FinTech,API,LATAM
+D,1000,MoneyBuys,Electronics,Others,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,Peer Bank,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Corporates,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,Corporates,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Others,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,Peer Bank,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+2,70000,InnerCircleCars,Cars,Peer Bank,Branch,EMEA
+3,1000,Finnovate,Cars,Peer Bank,API,EMEA
+4,25000,MoneyBuys,Cars,Corporates,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Direct,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,Others,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Peer Bank,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,FinTech,API,LATAM
+D,1000,MoneyBuys,Electronics,Corporates,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Corporates,API,EMEA
+11,1000,HouseNEXT,Real Estate,FinTech,Website,EMEA
+12,895,HouseNEXT,Real Estate,Others,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,Peer Bank,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Corporates,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Others,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,Peer Bank,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Peer Bank,API,EMEA
+7,1000,InnerCircleCars,Cars,Peer Bank,API,LATAM
+8,6000,MoneyBuys,Electronics,Peer Bank,Website,EMEA
+9,1000,Finnovate,Electronics,Corporates,API,JAPAC
+A,563,MoneyBuys,Electronics,Peer Bank,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Direct,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Others,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+11,1000,HouseNEXT,Real Estate,FinTech,Website,EMEA
+12,895,HouseNEXT,Real Estate,Corporates,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Corporates,API,EMEA
+16,100,Finnovate,Cars,FinTech,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Others,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Corporates,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Others,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,Peer Bank,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Peer Bank,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Peer Bank,API,LATAM
+D,1000,MoneyBuys,Electronics,Peer Bank,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Corporates,API,JAPAC
+F,1000,Finnovate,Electronics,Peer Bank,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Direct,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,Others,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Peer Bank,API,EMEA
+16,100,Finnovate,Cars,FinTech,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+2,70000,InnerCircleCars,Cars,FinTech,Branch,EMEA
+3,1000,Finnovate,Cars,Others,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Corporates,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,Corporates,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Others,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Peer Bank,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+11,1000,HouseNEXT,Real Estate,Peer Bank,Website,EMEA
+12,895,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+13,1000,Finnovate,Electronics,Corporates,API,JAPAC
+14,65000,Finnovate,Electronics,Peer Bank,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Direct,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,Others,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+2,70000,InnerCircleCars,Cars,FinTech,Branch,EMEA
+3,1000,Finnovate,Cars,Corporates,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Corporates,API,EMEA
+7,1000,InnerCircleCars,Cars,FinTech,API,LATAM
+8,6000,MoneyBuys,Electronics,Others,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,Peer Bank,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Corporates,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,Corporates,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Others,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,Peer Bank,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Peer Bank,API,EMEA
+16,100,Finnovate,Cars,Peer Bank,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+18,95000,Finnovate,Cars,Corporates,API,JAPAC
+19,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Direct,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,Others,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Peer Bank,API,EMEA
+7,1000,InnerCircleCars,Cars,FinTech,API,LATAM
+8,6000,MoneyBuys,Electronics,Corporates,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Corporates,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,FinTech,API,LATAM
+D,1000,MoneyBuys,Electronics,Others,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,Peer Bank,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Corporates,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,Corporates,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Others,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,Peer Bank,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+2,70000,InnerCircleCars,Cars,Peer Bank,Branch,EMEA
+3,1000,Finnovate,Cars,Peer Bank,API,EMEA
+4,25000,MoneyBuys,Cars,Corporates,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Direct,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,Others,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Peer Bank,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,FinTech,API,LATAM
+D,1000,MoneyBuys,Electronics,Corporates,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Corporates,API,EMEA
+11,1000,HouseNEXT,Real Estate,FinTech,Website,EMEA
+12,895,HouseNEXT,Real Estate,Others,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,Peer Bank,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Corporates,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Others,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,Peer Bank,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Peer Bank,API,EMEA
+7,1000,InnerCircleCars,Cars,Peer Bank,API,LATAM
+8,6000,MoneyBuys,Electronics,Peer Bank,Website,EMEA
+9,1000,Finnovate,Electronics,Corporates,API,JAPAC
+A,563,MoneyBuys,Electronics,Peer Bank,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Direct,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Others,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+11,1000,HouseNEXT,Real Estate,FinTech,Website,EMEA
+12,895,HouseNEXT,Real Estate,Corporates,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Corporates,API,EMEA
+16,100,Finnovate,Cars,FinTech,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Others,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Corporates,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Others,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,Peer Bank,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Peer Bank,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Peer Bank,API,LATAM
+D,1000,MoneyBuys,Electronics,Peer Bank,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Corporates,API,JAPAC
+F,1000,Finnovate,Electronics,Peer Bank,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Direct,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,Others,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Peer Bank,API,EMEA
+16,100,Finnovate,Cars,FinTech,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+2,70000,InnerCircleCars,Cars,FinTech,Branch,EMEA
+3,1000,Finnovate,Cars,Others,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Corporates,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,Corporates,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Others,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Peer Bank,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+11,1000,HouseNEXT,Real Estate,Peer Bank,Website,EMEA
+12,895,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+13,1000,Finnovate,Electronics,Corporates,API,JAPAC
+14,65000,Finnovate,Electronics,Peer Bank,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Direct,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,Others,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+2,70000,InnerCircleCars,Cars,FinTech,Branch,EMEA
+3,1000,Finnovate,Cars,Corporates,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Corporates,API,EMEA
+7,1000,InnerCircleCars,Cars,FinTech,API,LATAM
+8,6000,MoneyBuys,Electronics,Others,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,Peer Bank,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Corporates,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,Corporates,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Others,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,Peer Bank,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Peer Bank,API,EMEA
+16,100,Finnovate,Cars,Peer Bank,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+18,95000,Finnovate,Cars,Corporates,API,JAPAC
+19,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Direct,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,Others,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Peer Bank,API,EMEA
+7,1000,InnerCircleCars,Cars,FinTech,API,LATAM
+8,6000,MoneyBuys,Electronics,Corporates,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Corporates,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,FinTech,API,LATAM
+D,1000,MoneyBuys,Electronics,Others,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,Peer Bank,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Corporates,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,Corporates,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Others,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,Peer Bank,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+2,70000,InnerCircleCars,Cars,Peer Bank,Branch,EMEA
+3,1000,Finnovate,Cars,Peer Bank,API,EMEA
+4,25000,MoneyBuys,Cars,Corporates,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Direct,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,Others,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Peer Bank,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,FinTech,API,LATAM
+D,1000,MoneyBuys,Electronics,Corporates,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Corporates,API,EMEA
+11,1000,HouseNEXT,Real Estate,FinTech,Website,EMEA
+12,895,HouseNEXT,Real Estate,Others,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,Peer Bank,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Corporates,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Others,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,Peer Bank,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Peer Bank,API,EMEA
+7,1000,InnerCircleCars,Cars,Peer Bank,API,LATAM
+8,6000,MoneyBuys,Electronics,Peer Bank,Website,EMEA
+9,1000,Finnovate,Electronics,Corporates,API,JAPAC
+A,563,MoneyBuys,Electronics,Peer Bank,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Direct,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Others,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+11,1000,HouseNEXT,Real Estate,FinTech,Website,EMEA
+12,895,HouseNEXT,Real Estate,Corporates,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Corporates,API,EMEA
+16,100,Finnovate,Cars,FinTech,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Others,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Corporates,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Others,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,Peer Bank,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Peer Bank,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Peer Bank,API,LATAM
+D,1000,MoneyBuys,Electronics,Peer Bank,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Corporates,API,JAPAC
+F,1000,Finnovate,Electronics,Peer Bank,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Direct,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,Others,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Peer Bank,API,EMEA
+16,100,Finnovate,Cars,FinTech,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+2,70000,InnerCircleCars,Cars,FinTech,Branch,EMEA
+3,1000,Finnovate,Cars,Others,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Corporates,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,Corporates,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Others,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Peer Bank,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+11,1000,HouseNEXT,Real Estate,Peer Bank,Website,EMEA
+12,895,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+13,1000,Finnovate,Electronics,Corporates,API,JAPAC
+14,65000,Finnovate,Electronics,Peer Bank,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Direct,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,Others,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+2,70000,InnerCircleCars,Cars,FinTech,Branch,EMEA
+3,1000,Finnovate,Cars,Corporates,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Corporates,API,EMEA
+7,1000,InnerCircleCars,Cars,FinTech,API,LATAM
+8,6000,MoneyBuys,Electronics,Others,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,Peer Bank,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Corporates,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,Corporates,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Others,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,Peer Bank,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Peer Bank,API,EMEA
+16,100,Finnovate,Cars,Peer Bank,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+18,95000,Finnovate,Cars,Corporates,API,JAPAC
+19,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Direct,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,Others,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Peer Bank,API,EMEA
+7,1000,InnerCircleCars,Cars,FinTech,API,LATAM
+8,6000,MoneyBuys,Electronics,Corporates,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Corporates,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,FinTech,API,LATAM
+D,1000,MoneyBuys,Electronics,Others,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,Peer Bank,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Corporates,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,Corporates,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Others,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,Peer Bank,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+2,70000,InnerCircleCars,Cars,Peer Bank,Branch,EMEA
+3,1000,Finnovate,Cars,Peer Bank,API,EMEA
+4,25000,MoneyBuys,Cars,Corporates,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Direct,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,Others,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Peer Bank,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,FinTech,API,LATAM
+D,1000,MoneyBuys,Electronics,Corporates,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Corporates,API,EMEA
+11,1000,HouseNEXT,Real Estate,FinTech,Website,EMEA
+12,895,HouseNEXT,Real Estate,Others,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,Peer Bank,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Corporates,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Others,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,Peer Bank,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Peer Bank,API,EMEA
+7,1000,InnerCircleCars,Cars,Peer Bank,API,LATAM
+8,6000,MoneyBuys,Electronics,Peer Bank,Website,EMEA
+9,1000,Finnovate,Electronics,Corporates,API,JAPAC
+A,563,MoneyBuys,Electronics,Peer Bank,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Direct,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Others,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+11,1000,HouseNEXT,Real Estate,FinTech,Website,EMEA
+12,895,HouseNEXT,Real Estate,Corporates,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Corporates,API,EMEA
+16,100,Finnovate,Cars,FinTech,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Others,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Corporates,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Others,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,Peer Bank,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Peer Bank,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Peer Bank,API,LATAM
+D,1000,MoneyBuys,Electronics,Peer Bank,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Corporates,API,JAPAC
+F,1000,Finnovate,Electronics,Peer Bank,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Direct,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,Others,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Peer Bank,API,EMEA
+16,100,Finnovate,Cars,FinTech,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+2,70000,InnerCircleCars,Cars,FinTech,Branch,EMEA
+3,1000,Finnovate,Cars,Others,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Corporates,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,Corporates,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Others,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Peer Bank,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+11,1000,HouseNEXT,Real Estate,Peer Bank,Website,EMEA
+12,895,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+13,1000,Finnovate,Electronics,Corporates,API,JAPAC
+14,65000,Finnovate,Electronics,Peer Bank,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Direct,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,Others,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+2,70000,InnerCircleCars,Cars,FinTech,Branch,EMEA
+3,1000,Finnovate,Cars,Corporates,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Corporates,API,EMEA
+7,1000,InnerCircleCars,Cars,FinTech,API,LATAM
+8,6000,MoneyBuys,Electronics,Others,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,Peer Bank,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Corporates,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,Corporates,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Others,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,Peer Bank,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Peer Bank,API,EMEA
+16,100,Finnovate,Cars,Peer Bank,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+18,95000,Finnovate,Cars,Corporates,API,JAPAC
+19,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Direct,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,Others,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Peer Bank,API,EMEA
+7,1000,InnerCircleCars,Cars,FinTech,API,LATAM
+8,6000,MoneyBuys,Electronics,Corporates,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Corporates,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,FinTech,API,LATAM
+D,1000,MoneyBuys,Electronics,Others,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,Peer Bank,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Corporates,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,Corporates,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Others,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,Peer Bank,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+2,70000,InnerCircleCars,Cars,Peer Bank,Branch,EMEA
+3,1000,Finnovate,Cars,Peer Bank,API,EMEA
+4,25000,MoneyBuys,Cars,Corporates,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Direct,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,Others,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Peer Bank,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,FinTech,API,LATAM
+D,1000,MoneyBuys,Electronics,Corporates,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Corporates,API,EMEA
+11,1000,HouseNEXT,Real Estate,FinTech,Website,EMEA
+12,895,HouseNEXT,Real Estate,Others,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,Peer Bank,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Corporates,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Others,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,Peer Bank,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Peer Bank,API,EMEA
+7,1000,InnerCircleCars,Cars,Peer Bank,API,LATAM
+8,6000,MoneyBuys,Electronics,Peer Bank,Website,EMEA
+9,1000,Finnovate,Electronics,Corporates,API,JAPAC
+A,563,MoneyBuys,Electronics,Peer Bank,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Direct,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Others,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+11,1000,HouseNEXT,Real Estate,FinTech,Website,EMEA
+12,895,HouseNEXT,Real Estate,Corporates,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Corporates,API,EMEA
+16,100,Finnovate,Cars,FinTech,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Others,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Corporates,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Others,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,Peer Bank,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Peer Bank,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Peer Bank,API,LATAM
+D,1000,MoneyBuys,Electronics,Peer Bank,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Corporates,API,JAPAC
+F,1000,Finnovate,Electronics,Peer Bank,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Direct,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,Others,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Peer Bank,API,EMEA
+16,100,Finnovate,Cars,FinTech,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+2,70000,InnerCircleCars,Cars,FinTech,Branch,EMEA
+3,1000,Finnovate,Cars,Others,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Corporates,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,Corporates,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Others,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Peer Bank,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+11,1000,HouseNEXT,Real Estate,Peer Bank,Website,EMEA
+12,895,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+13,1000,Finnovate,Electronics,Corporates,API,JAPAC
+14,65000,Finnovate,Electronics,Peer Bank,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Direct,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,Others,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+2,70000,InnerCircleCars,Cars,FinTech,Branch,EMEA
+3,1000,Finnovate,Cars,Corporates,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Corporates,API,EMEA
+7,1000,InnerCircleCars,Cars,FinTech,API,LATAM
+8,6000,MoneyBuys,Electronics,Others,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,Peer Bank,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Corporates,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,Corporates,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Others,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,Peer Bank,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Peer Bank,API,EMEA
+16,100,Finnovate,Cars,Peer Bank,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+18,95000,Finnovate,Cars,Corporates,API,JAPAC
+19,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Direct,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,Others,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Peer Bank,API,EMEA
+7,1000,InnerCircleCars,Cars,FinTech,API,LATAM
+8,6000,MoneyBuys,Electronics,Corporates,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Corporates,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,FinTech,API,LATAM
+D,1000,MoneyBuys,Electronics,Others,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,Peer Bank,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Corporates,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,Corporates,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Others,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,Peer Bank,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+2,70000,InnerCircleCars,Cars,Peer Bank,Branch,EMEA
+3,1000,Finnovate,Cars,Peer Bank,API,EMEA
+4,25000,MoneyBuys,Cars,Corporates,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Direct,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,Others,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Peer Bank,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,FinTech,API,LATAM
+D,1000,MoneyBuys,Electronics,Corporates,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Corporates,API,EMEA
+11,1000,HouseNEXT,Real Estate,FinTech,Website,EMEA
+12,895,HouseNEXT,Real Estate,Others,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,Peer Bank,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Corporates,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Others,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,Peer Bank,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Peer Bank,API,EMEA
+7,1000,InnerCircleCars,Cars,Peer Bank,API,LATAM
+8,6000,MoneyBuys,Electronics,Peer Bank,Website,EMEA
+9,1000,Finnovate,Electronics,Corporates,API,JAPAC
+A,563,MoneyBuys,Electronics,Peer Bank,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Direct,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Others,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+11,1000,HouseNEXT,Real Estate,FinTech,Website,EMEA
+12,895,HouseNEXT,Real Estate,Corporates,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Corporates,API,EMEA
+16,100,Finnovate,Cars,FinTech,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Others,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Corporates,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Others,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,Peer Bank,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Peer Bank,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Peer Bank,API,LATAM
+D,1000,MoneyBuys,Electronics,Peer Bank,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Corporates,API,JAPAC
+F,1000,Finnovate,Electronics,Peer Bank,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Direct,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,Others,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Peer Bank,API,EMEA
+16,100,Finnovate,Cars,FinTech,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+2,70000,InnerCircleCars,Cars,FinTech,Branch,EMEA
+3,1000,Finnovate,Cars,Others,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Corporates,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,Corporates,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Others,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Peer Bank,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+11,1000,HouseNEXT,Real Estate,Peer Bank,Website,EMEA
+12,895,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+13,1000,Finnovate,Electronics,Corporates,API,JAPAC
+14,65000,Finnovate,Electronics,Peer Bank,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Direct,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,Others,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+2,70000,InnerCircleCars,Cars,FinTech,Branch,EMEA
+3,1000,Finnovate,Cars,Corporates,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Corporates,API,EMEA
+7,1000,InnerCircleCars,Cars,FinTech,API,LATAM
+8,6000,MoneyBuys,Electronics,Others,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,Peer Bank,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Corporates,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,Corporates,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Others,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,Peer Bank,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Peer Bank,API,EMEA
+16,100,Finnovate,Cars,Peer Bank,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+18,95000,Finnovate,Cars,Corporates,API,JAPAC
+19,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Direct,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,Others,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Peer Bank,API,EMEA
+7,1000,InnerCircleCars,Cars,FinTech,API,LATAM
+8,6000,MoneyBuys,Electronics,Corporates,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Corporates,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,FinTech,API,LATAM
+D,1000,MoneyBuys,Electronics,Others,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,Peer Bank,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Corporates,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,Corporates,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Others,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,Peer Bank,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+2,70000,InnerCircleCars,Cars,Peer Bank,Branch,EMEA
+3,1000,Finnovate,Cars,Peer Bank,API,EMEA
+4,25000,MoneyBuys,Cars,Corporates,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Direct,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,Others,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Peer Bank,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,FinTech,API,LATAM
+D,1000,MoneyBuys,Electronics,Corporates,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Corporates,API,EMEA
+11,1000,HouseNEXT,Real Estate,FinTech,Website,EMEA
+12,895,HouseNEXT,Real Estate,Others,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,Peer Bank,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Corporates,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Others,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,Peer Bank,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Peer Bank,API,EMEA
+7,1000,InnerCircleCars,Cars,Peer Bank,API,LATAM
+8,6000,MoneyBuys,Electronics,Peer Bank,Website,EMEA
+9,1000,Finnovate,Electronics,Corporates,API,JAPAC
+A,563,MoneyBuys,Electronics,Peer Bank,API,EMEA
+B,1000,HouseNEXT,Real Estate,FinTech,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Direct,API,LATAM
+D,1000,MoneyBuys,Electronics,FinTech,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Others,API,JAPAC
+F,1000,Finnovate,Electronics,FinTech,API,EMEA
+10,78000,HouseNEXT,Real Estate,Peer Bank,API,EMEA
+11,1000,HouseNEXT,Real Estate,FinTech,Website,EMEA
+12,895,HouseNEXT,Real Estate,Corporates,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Corporates,API,EMEA
+16,100,Finnovate,Cars,FinTech,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Others,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Corporates,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,FinTech,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+6,65500,Finnovate,Cars,FinTech,API,EMEA
+7,1000,InnerCircleCars,Cars,Others,API,LATAM
+8,6000,MoneyBuys,Electronics,FinTech,Website,EMEA
+9,1000,Finnovate,Electronics,Peer Bank,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Peer Bank,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,Peer Bank,API,LATAM
+D,1000,MoneyBuys,Electronics,Peer Bank,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,Corporates,API,JAPAC
+F,1000,Finnovate,Electronics,Peer Bank,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Direct,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,Others,API,JAPAC
+14,65000,Finnovate,Electronics,FinTech,Branch,EMEA
+15,1000,MoneyBuys,Cars,Peer Bank,API,EMEA
+16,100,Finnovate,Cars,FinTech,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,Corporates,API,EMEA
+18,95000,Finnovate,Cars,FinTech,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA

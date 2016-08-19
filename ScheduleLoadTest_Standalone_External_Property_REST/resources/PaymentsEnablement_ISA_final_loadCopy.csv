@@ -1,0 +1,31 @@
+CustomerID,PaymentAmount,FinTechID,PaymentCategory,SalesChannel,TechnicalChannel,Region
+1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+2,70000,InnerCircleCars,Cars,Direct,Branch,EMEA
+3,1000,Finnovate,Cars,FinTech,API,EMEA
+4,25000,MoneyBuys,Cars,Others,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+6,65500,Finnovate,Cars,Peer Bank,API,EMEA
+7,1000,InnerCircleCars,Cars,FinTech,API,LATAM
+8,6000,MoneyBuys,Electronics,Corporates,Website,EMEA
+9,1000,Finnovate,Electronics,FinTech,API,JAPAC
+A,563,MoneyBuys,Electronics,FinTech,API,EMEA
+B,1000,HouseNEXT,Real Estate,Corporates,Branch,EMEA
+C,85000,HouseNEXT,Real Estate,FinTech,API,LATAM
+D,1000,MoneyBuys,Electronics,Others,Mobile,EMEA
+E,789,HouseNEXT,Real Estate,FinTech,API,JAPAC
+F,1000,Finnovate,Electronics,Peer Bank,API,EMEA
+10,78000,HouseNEXT,Real Estate,FinTech,API,EMEA
+11,1000,HouseNEXT,Real Estate,Corporates,Website,EMEA
+12,895,HouseNEXT,Real Estate,FinTech,API,EMEA
+13,1000,Finnovate,Electronics,FinTech,API,JAPAC
+14,65000,Finnovate,Electronics,Corporates,Branch,EMEA
+15,1000,MoneyBuys,Cars,FinTech,API,EMEA
+16,100,Finnovate,Cars,Others,Mobile,LATAM
+17,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+18,95000,Finnovate,Cars,Peer Bank,API,JAPAC
+19,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
+2,70000,InnerCircleCars,Cars,Peer Bank,Branch,EMEA
+3,1000,Finnovate,Cars,Peer Bank,API,EMEA
+4,25000,MoneyBuys,Cars,Corporates,Mobile,JAPAC
+5,1000,InnerCircleCars,Cars,Peer Bank,API,EMEA
