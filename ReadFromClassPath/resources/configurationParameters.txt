@@ -1,0 +1,12 @@
+csvFilePath=D:\\WorkSpace\\JMeter_POC\\
+csvFileDefaultPayloadFileName=PaymentsEnablement_ISA_final_load.csv
+threadPoolSize=5
+threadSleepTime=5000
+loadGenerationCategory=DEFAULT
+regionForDemo=APAC
+timeIntervalUnit=HOUR
+timeInterval=1
+schedulerStartDateStr=2016-05-26 00:48:00.0
+schedulerEndDateStr=2016-06-01 23:59:59.0
+schedulerJobName=defaultUser
+schedulerDateFormat=yyyy-MM-dd HH:mm:ss.S
