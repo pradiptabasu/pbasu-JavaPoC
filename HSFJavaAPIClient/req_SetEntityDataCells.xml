@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<req_SetEntityDataCells>
+	<sID>-76f42f01:15554f8b1a4:2e7e66c39feadce3f3369f29f798677b97d60be4692eef18f5695aa1d690effe729c12d0913a261f0ce410ddbed34883f7bad1207ba6
+	</sID>
+	<server>HSFServer</server>
+	<database>Oil_n_Gas</database>
+	<entity>Oil_n_Gas</entity>
+	<DataCells>
+		<DataCell account="100.00.000" time="2015" scenario="Base"
+			measure="Input" value="11289" />
+		<DataCell account="315.00.000" time="2016" scenario="Base"
+			measure="Input" value="11389" />
+		<DataCell account="320.00.000" time="2017" scenario="Base"
+			measure="Input" value="11489" />
+		<DataCell account="325.00.000" time="2018" scenario="Base"
+			measure="Input" value="11589" />
+	</DataCells>
+</req_SetEntityDataCells>

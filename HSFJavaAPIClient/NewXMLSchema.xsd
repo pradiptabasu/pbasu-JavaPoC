@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<s:schema xmlns:s="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+          targetNamespace="http://hyperion.com/hsf/hsfwebservices/"
+          xmlns:tns="http://hyperion.com/hsf/hsfwebservices/">
+  <s:element name="CloseAllEntities">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="sessionID" type="s:string"/>
+        <s:element minOccurs="1" maxOccurs="1" name="checkIn" type="s:boolean"/>
+        <s:element minOccurs="1" maxOccurs="1" name="releaseLock" type="s:boolean"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="CloseAllEntitiesResponse">
+    <s:complexType/>
+  </s:element>
+  <s:element name="CloseDatabase">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="sessionID" type="s:string"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="CloseDatabaseResponse">
+    <s:complexType/>
+  </s:element>
+  <s:element name="EnumCubes">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="sessionID" type="s:string"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="EnumCubesResponse">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="EnumCubesResult" type="tns:ArrayOfString"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:complexType name="ArrayOfString">
+    <s:sequence>
+      <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string"/>
+    </s:sequence>
+  </s:complexType>
+  <s:element name="EnumEntities">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="sessionID" type="s:string"/>
+        <s:element minOccurs="0" maxOccurs="1" name="entity" type="s:string"/>
+        <s:element minOccurs="0" maxOccurs="1" name="action" type="s:string"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="EnumEntitiesResponse">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="EnumEntitiesResult">
+          <s:complexType>
+            <s:sequence>
+              <s:element ref="s:schema"/>
+              <s:any/>
+            </s:sequence>
+          </s:complexType>
+        </s:element>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="OpenDatabase">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="sessionID" type="s:string"/>
+        <s:element minOccurs="0" maxOccurs="1" name="database" type="s:string"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="OpenDatabaseResponse">
+    <s:complexType/>
+  </s:element>
+  <s:element name="EnumServers">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="sessionID" type="s:string"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="EnumServersResponse">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="EnumServersResult" type="tns:ArrayOfString"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="CreateSession">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="userName" type="s:string"/>
+        <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="CreateSessionResponse">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="CreateSessionResult" type="s:string"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="CreateSessionFromToken">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="CreateSessionFromTokenResponse">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="CreateSessionFromTokenResult" type="s:string"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="CloseSession">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="sessionID" type="s:string"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="CloseSessionResponse">
+    <s:complexType/>
+  </s:element>
+  <s:element name="GetSessionInfo">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="sessionID" type="s:string"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="GetSessionInfoResponse">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="GetSessionInfoResult">
+          <s:complexType>
+            <s:sequence>
+              <s:element ref="s:schema"/>
+              <s:any/>
+            </s:sequence>
+          </s:complexType>
+        </s:element>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="EnumDatabases">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="sessionID" type="s:string"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="EnumDatabasesResponse">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="EnumDatabasesResult" type="tns:ArrayOfString"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="EnumOpenedEntities">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="sessionID" type="s:string"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="EnumOpenedEntitiesResponse">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="EnumOpenedEntitiesResult">
+          <s:complexType>
+            <s:sequence>
+              <s:element ref="s:schema"/>
+              <s:any/>
+            </s:sequence>
+          </s:complexType>
+        </s:element>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="OpenServer">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="sessionID" type="s:string"/>
+        <s:element minOccurs="0" maxOccurs="1" name="server" type="s:string"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="OpenServerResponse">
+    <s:complexType/>
+  </s:element>
+  <s:element name="CloseServer">
+    <s:complexType>
+      <s:sequence>
+        <s:element minOccurs="0" maxOccurs="1" name="sessionID" type="s:string"/>
+      </s:sequence>
+    </s:complexType>
+  </s:element>
+  <s:element name="CloseServerResponse">
+    <s:complexType/>
+  </s:element>
+</s:schema>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TransformedData>
+	<originalTransformer>
+		<printlineTemplate>
+			<line />
+			<remaining />
+			<printFieldsTemplate>
+				<printFieldByIndexTemplate>
+					<printFieldByIndexTemplate />
+				</printFieldByIndexTemplate>
+				<printFieldByIndexTemplate>
+					<printFieldByIndexTemplate>
+						<printFieldByIndexTemplate>
+							<printFieldByIndexTemplate>
+								<printFieldByIndexTemplate />
+							</printFieldByIndexTemplate>
+						</printFieldByIndexTemplate>
+					</printFieldByIndexTemplate>
+				</printFieldByIndexTemplate>
+			</printFieldsTemplate>
+		</printlineTemplate>
+	</originalTransformer>
+	<myCSVtransformer>
+		<ListOfAccounts>
+			<accountName>abc</accountName>
+			<receivedInput>abc,sdf,cfr,ted</receivedInput>
+			<sendingInput>sdf,cfr,ted</sendingInput>
+			<accountName>sdf</accountName>
+			<receivedInput>sdf,cfr,ted</receivedInput>
+			<sendingInput>cfr,ted</sendingInput>
+			<accountName>cfr</accountName>
+			<receivedInput>cfr,ted</receivedInput>
+			<sendingInput>ted</sendingInput>
+			<accountName>ted</accountName>
+		</ListOfAccounts>
+	</myCSVtransformer>
+</TransformedData>

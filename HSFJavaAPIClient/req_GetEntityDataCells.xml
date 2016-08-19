@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<req_GetEntityDataCells>
+	<sID>-76f42f01:15554f8b1a4:2e7e66c39feadce3f3369f29f798677b97d60be4692eef18f5695aa1d690effe729c12d0913a261f0ce410ddbed34883f7bad1207ba6
+	</sID>
+	<server>HSFServer</server>
+	<database>Oil_n_Gas</database>
+	<entity>Oil_n_Gas</entity>
+	<account>100.00.000</account>
+	<time>2015</time>
+	<scenario>Base</scenario>
+	<measure>Input</measure>
+</req_GetEntityDataCells>
