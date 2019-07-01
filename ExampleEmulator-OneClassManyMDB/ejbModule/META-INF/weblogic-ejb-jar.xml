@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wls:weblogic-ejb-jar
+	xmlns:wls="http://xmlns.oracle.com/weblogic/weblogic-ejb-jar"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/ejb-jar_3_1.xsd http://xmlns.oracle.com/weblogic/weblogic-ejb-jar http://xmlns.oracle.com/weblogic/weblogic-ejb-jar/1.6/weblogic-ejb-jar.xsd">
+	<!--weblogic-version:12.2.1 -->
+	<wls:weblogic-enterprise-bean>
+		<wls:ejb-name>MasterListenerQueueSet1</wls:ejb-name>
+		<wls:message-driven-descriptor>
+			<wls:pool>
+				<wls:max-beans-in-free-pool>100</wls:max-beans-in-free-pool>
+			</wls:pool>
+			<wls:destination-jndi-name>TestRequestQueue1</wls:destination-jndi-name>
+		</wls:message-driven-descriptor>
+		<wls:jndi-name>MasterListenerQueueSet1</wls:jndi-name>
+	</wls:weblogic-enterprise-bean>
+
+	<wls:weblogic-enterprise-bean>
+		<wls:ejb-name>MasterListenerQueueSet2</wls:ejb-name>
+		<wls:message-driven-descriptor>
+			<wls:pool>
+				<wls:max-beans-in-free-pool>100</wls:max-beans-in-free-pool>
+			</wls:pool>
+			<wls:destination-jndi-name>TestRequestQueue2</wls:destination-jndi-name>
+		</wls:message-driven-descriptor>
+		<wls:jndi-name>MasterListenerQueueSet2</wls:jndi-name>
+	</wls:weblogic-enterprise-bean>
+
+	<wls:security-role-assignment>
+		<wls:role-name>omsadmin</wls:role-name>
+		<wls:principal-name>omsadmin</wls:principal-name>
+	</wls:security-role-assignment>
+	<wls:run-as-role-assignment>
+		<wls:role-name>omsadmin</wls:role-name>
+		<wls:run-as-principal-name>omsadmin</wls:run-as-principal-name>
+	</wls:run-as-role-assignment>
+</wls:weblogic-ejb-jar>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ejb-jar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/ejb-jar_3_2.xsd"
+	version="3.2">
+	<display-name>ExampleEmulator-OneClassManyMDB</display-name>
+	<enterprise-beans>
+		<message-driven>
+			<display-name>MasterListenerQueueSet1</display-name>
+			<ejb-name>MasterListenerQueueSet1</ejb-name>
+			<ejb-class>com.pradipta.test.MasterListener</ejb-class>
+			<transaction-type>Container</transaction-type>
+			<activation-config>
+				<activation-config-property>
+					<activation-config-property-name>destinationType</activation-config-property-name>
+					<activation-config-property-value>javax.jms.Queue</activation-config-property-value>
+				</activation-config-property>
+				<activation-config-property>
+					<activation-config-property-name>destination</activation-config-property-name>
+					<activation-config-property-value>TestRequestQueue1</activation-config-property-value>
+				</activation-config-property>
+			</activation-config>
+			<env-entry>
+				<description>Connection Factory Name</description>
+				<env-entry-name>CONNECTION_FACTORY_JNDI</env-entry-name>
+				<env-entry-type>java.lang.String</env-entry-type>
+				<env-entry-value>oracle/communications/ordermanagement/unsupported/OsmCentralOMExample/emulator/ExternalClientConnectionFactory</env-entry-value>
+			</env-entry>
+			<env-entry>
+				<description>XQuery Script Name</description>
+				<env-entry-name>XQUERY_SCRIPT</env-entry-name>
+				<env-entry-type>java.lang.String</env-entry-type>
+				<env-entry-value>resources/xquery/dslProvisioningRegion1_simulate_response.xqy</env-entry-value>
+			</env-entry>
+			<env-entry>
+				<description>Target JNDI Name</description>
+				<env-entry-name>DESTINATION_JNDI</env-entry-name>
+				<env-entry-type>java.lang.String</env-entry-type>
+				<env-entry-value>TestResponseQueue1</env-entry-value>
+			</env-entry>
+			<security-identity>
+				<run-as>
+					<role-name>omsadmin</role-name>
+				</run-as>
+			</security-identity>
+		</message-driven>
+
+		<message-driven>
+			<display-name>MasterListenerQueueSet2</display-name>
+			<ejb-name>MasterListenerQueueSet2</ejb-name>
+			<ejb-class>com.pradipta.test.MasterListener</ejb-class>
+			<transaction-type>Container</transaction-type>
+			<activation-config>
+				<activation-config-property>
+					<activation-config-property-name>destinationType</activation-config-property-name>
+					<activation-config-property-value>javax.jms.Queue</activation-config-property-value>
+				</activation-config-property>
+				<activation-config-property>
+					<activation-config-property-name>destination</activation-config-property-name>
+					<activation-config-property-value>TestRequestQueue2</activation-config-property-value>
+				</activation-config-property>
+			</activation-config>
+			<env-entry>
+				<description>Connection Factory Name</description>
+				<env-entry-name>CONNECTION_FACTORY_JNDI</env-entry-name>
+				<env-entry-type>java.lang.String</env-entry-type>
+				<env-entry-value>oracle/communications/ordermanagement/unsupported/OsmCentralOMExample/emulator/ExternalClientConnectionFactory</env-entry-value>
+			</env-entry>
+			<env-entry>
+				<description>XQuery Script Name</description>
+				<env-entry-name>XQUERY_SCRIPT</env-entry-name>
+				<env-entry-type>java.lang.String</env-entry-type>
+				<env-entry-value>resources/xquery/dslProvisioningRegion1_simulate_response.xqy</env-entry-value>
+			</env-entry>
+			<env-entry>
+				<description>Target JNDI Name</description>
+				<env-entry-name>DESTINATION_JNDI</env-entry-name>
+				<env-entry-type>java.lang.String</env-entry-type>
+				<env-entry-value>TestResponseQueue2</env-entry-value>
+			</env-entry>
+			<security-identity>
+				<run-as>
+					<role-name>omsadmin</role-name>
+				</run-as>
+			</security-identity>
+		</message-driven>
+	</enterprise-beans>
+	<assembly-descriptor>
+		<security-role>
+			<role-name>omsadmin</role-name>
+		</security-role>
+		<container-transaction>
+			<method>
+				<ejb-name>MasterListenerQueueSet1</ejb-name>
+				<method-name>*</method-name>
+			</method>
+			<trans-attribute>Required</trans-attribute>
+		</container-transaction>
+		<container-transaction>
+			<method>
+				<ejb-name>MasterListenerQueueSet2</ejb-name>
+				<method-name>*</method-name>
+			</method>
+			<trans-attribute>Required</trans-attribute>
+		</container-transaction>
+	</assembly-descriptor>
+</ejb-jar>
