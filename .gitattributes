@@ -1,1 +1,2 @@
+wlfullclient.psd filter=lfs diff=lfs merge=lfs -text
 **/**/wlfullclient.jar filter=lfs diff=lfs merge=lfs -text
