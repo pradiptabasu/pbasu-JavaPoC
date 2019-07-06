@@ -1,0 +1,5 @@
+com\pradipta\maven\testng\sample\SampleExample.class
+com\pradipta\maven\testng\xmlunit\App.class
+com\pradipta\maven\testng\xmlunit\BigDecimalElementDifferenceEvaluator.class
+com\pradipta\maven\testng\xmlunit\IgnoreAttributeDifferenceEvaluator.class
+com\pradipta\maven\sample\App.class

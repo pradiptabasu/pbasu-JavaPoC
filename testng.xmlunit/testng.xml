@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener
+			class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+	<test thread-count="5" name="AppTest">
+		<classes>
+			<class name="com.pradipta.maven.sample.AppTest" />
+			<class name="com.pradipta.maven.testng.sample.SimpleTest" />
+			<class name="com.pradipta.maven.testng.sample.AdvancedTest" />
+			<class
+				name="com.pradipta.maven.testng.xmlunit.BigDecimalElementDifferenceEvaluatorTest" />
+			<class
+				name="com.pradipta.maven.testng.xmlunit.IgnoreAttributeDifferenceEvaluatorTest" />
+			<class
+				name="com.pradipta.maven.testng.xmlunit.SelectingNodesExamplesTest" />
+		</classes>
+	</test> <!-- AppTest -->
+</suite> <!-- Suite -->
